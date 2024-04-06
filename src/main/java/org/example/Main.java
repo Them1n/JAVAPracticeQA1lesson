@@ -19,8 +19,6 @@ public class Main {
         byte age = 26;
 
         System.out.println("Name: " + name +", Age: " + age);
-        System.out.println("Age: " + age +", Name: " + name);
-
 
     }
 }
